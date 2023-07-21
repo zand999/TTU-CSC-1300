@@ -1,0 +1,8 @@
+NOTE: I am running on apple and for some reason the clock timer does not work properly!
+NOTE: It does run quicker though.
+Threads - Time
+1 - 3.9
+2 - 4.0
+4 - 4.1
+6 - 6.2
+8 - 6.9

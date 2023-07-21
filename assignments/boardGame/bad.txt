@@ -1,0 +1,24 @@
+You rolled a natural 1.
+You encounterd a taraque.
+You are out of food.
+You have been cursed.
+You broke the law and are now wanted.
+You have been framed.
+You have been captured by a cult.
+You lost all of you magic for 3 days.
+You opened a chest that was a mimmic.
+You did not make it to the boss in time.
+You messed up on your magic and it blows up in your face.
+You were poisoned.
+You failed on your saving throw!
+You are confronted with a beholder.
+You have been blinded.
+You have gone insane.
+You lost all of your money.
+You got lost in time.
+The party got split up.
+Your friend died.
+
+
+
+
